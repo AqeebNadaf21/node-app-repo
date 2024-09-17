@@ -1,0 +1,26 @@
+{
+  "name": "node-repo",
+  "version": "1.0.0",
+  "description": "This is Node App Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AqeebNadaf21/node-app-repo.git"
+  },
+  "author": "Aqeeb Nadaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AqeebNadaf21/node-app-repo/issues"
+  },
+  "homepage": "https://github.com/AqeebNadaf21/node-app-repo#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
