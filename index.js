@@ -1,4 +1,6 @@
 const os = require('os');
+const path = require('path');
+
 
 console.log('My first app');
 console.log(`Global: ${global}`);
@@ -21,4 +23,8 @@ console.log(`Release: ${os.release()}`);
 console.log(`Type: ${os.type()}`);
 console.log(`Uptime: ${os.uptime()}`);
 console.log(`UserInfo: ${os.userInfo()}`);
+
+
+
+
 

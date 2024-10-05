@@ -18,9 +18,7 @@
   },
   "homepage": "https://github.com/AqeebNadaf21/node-app-repo#readme",
   "dependencies": {
-    "express": "^4.21.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.4"
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
   }
 }
